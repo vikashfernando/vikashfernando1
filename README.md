@@ -1,16 +1,12 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Vikash</h1>
+<h3 align="center">I'm a Software Engineering student at IIT, Sri Lanka.</h3>
 
-<!--
-**vikashfernando/vikashfernando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">I love coding, learning new tech, and creating content in my free time.</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### 📫 Contact Me
+<p align="left">
+<a href="https://vikashfernando.carrd.co/" target="_blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/internetexplorer.svg" alt="website" height="30" width="40" />
+</a>
+</p>
